@@ -3,7 +3,7 @@
 
 <img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" width = 50px alt="afastwight"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight" width="200" /> </p>
 
 - 🚀  My First project **Shooter**
 
