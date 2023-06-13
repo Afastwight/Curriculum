@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio Tapia Alvarez</h1>
 <h3 align="center">👨‍💻 Passionate about the world of computing from Ecuador🎮</h3>
 
-<img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion"> 
+<img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion" width="200" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight" width="200" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight"/> </p>
 
 - 🚀  My First project **Shooter**
 
