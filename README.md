@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Tapia Alvarez</h1>
 <h3 align="center">👨‍💻 Passionate about the world of computing from Ecuador🎮</h3>
 
-<img src="https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvectores%2Fastronauta-animado%2F4&psig=AOvVaw1V2gSs2cFPkqqb1hfVtymc&ust=1686713167773000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD-waumv_8CFQAAAAAdAAAAABAF" alt="icon-programacion"> 
+<img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight" /> </p>
 
