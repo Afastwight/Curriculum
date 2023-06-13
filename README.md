@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Antonio Tapia Alvarez</h1>
+<h1 align="center">Hola soy Afastwight👋,</h1>
 <h3 align="center">👨‍💻 Passionate about the world of computing from Ecuador🎮</h3>
 
 <center><img src="https://img.freepik.com/vector-gratis/astronauta-trabajando-computadora-portatil-escribiendo-ilustracion-dibujos-animados-concepto-negocio-ciencia-aislado-estilo-dibujos-animados-plana_138676-3447.jpg?w=2000" alt="icon-programacion" width="900"></center> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afastwight&label=Profile%20views&color=0e75b6&style=flat" alt="afastwight"/></p>
+
+<h1> Sobre mi </h1>
 
 - 🚀  My First project **Shooter**
 
