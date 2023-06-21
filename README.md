@@ -7,7 +7,7 @@
 
 <h1> Sobre mi </h1>
 
-- 🚀  My First project **Shooter**
+- 🚀  My First project **Shooter** <a>https://github.com/Afastwight/Shooter-Game</a>
 
 - 🌱 I’m currently learning **C++, Javascript,React,etc**
 
