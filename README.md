@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++, Javascript,React,etc**
 
-- 🏎️  My Second project **Career**
+- 🏎️  My Second project **Calculadora**
 
 - 🛫 My Tercer project **Plane**
 
